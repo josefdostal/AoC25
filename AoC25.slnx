@@ -4,4 +4,9 @@
     <Project Path="AoC25.Day1.SecretEntrance.Part2/AoC25.Day1.SecretEntrance.Part2.csproj" />
     <Project Path="AoC25.Day1.SecretEntrance/AoC25.Day1.SecretEntrance.csproj" />
   </Folder>
+  <Folder Name="/Day2.GiftShop/">
+    <Project Path="AoC25.Day2.GiftShop.Part1/AoC25.Day2.GiftShop.Part1.csproj" />
+    <Project Path="AoC25.Day2.GiftShop.Part2/AoC25.Day2.GiftShop.Part2.csproj" />
+    <Project Path="AoC25.Day2.GiftShop/AoC25.Day2.GiftShop.csproj" />
+  </Folder>
 </Solution>
