@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Day1.SecretEntrance/">
+    <Project Path="AoC25.Day1.SecretEntrance.Part1\AoC25.Day1.SecretEntrance.Part1.csproj" />
+    <Project Path="AoC25.Day1.SecretEntrance.Part2/AoC25.Day1.SecretEntrance.Part2.csproj" />
+    <Project Path="AoC25.Day1.SecretEntrance/AoC25.Day1.SecretEntrance.csproj" />
+  </Folder>
+</Solution>
