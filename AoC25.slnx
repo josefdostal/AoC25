@@ -9,4 +9,10 @@
     <Project Path="AoC25.Day2.GiftShop.Part2/AoC25.Day2.GiftShop.Part2.csproj" />
     <Project Path="AoC25.Day2.GiftShop/AoC25.Day2.GiftShop.csproj" />
   </Folder>
+  <Folder Name="/Day3.Lobby/">
+    <Project Path="AoC25.Day3.Lobby.Part1/AoC25.Day3.Lobby.Part1.csproj" />
+    <Project Path="AoC25.Day3.Lobby.Part2.Unit/AoC25.Day3.Lobby.Part2.Unit.csproj" />
+    <Project Path="AoC25.Day3.Lobby.Part2/AoC25.Day3.Lobby.Part2.csproj" />
+    <Project Path="AoC25.Day3.Lobby/AoC25.Day3.Lobby.csproj" />
+  </Folder>
 </Solution>
