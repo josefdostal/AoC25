@@ -15,4 +15,10 @@
     <Project Path="AoC25.Day3.Lobby.Part2/AoC25.Day3.Lobby.Part2.csproj" />
     <Project Path="AoC25.Day3.Lobby/AoC25.Day3.Lobby.csproj" />
   </Folder>
+  <Folder Name="/Day4.PrintingDepartment/">
+    <Project Path="AoC25.Day4.PrintingDepartment.Part1.Unit\AoC25.Day4.PrintingDepartment.Part1.Unit.csproj" />
+    <Project Path="AoC25.Day4.PrintingDepartment.Part1\AoC25.Day4.PrintingDepartment.Part1.csproj" />
+    <Project Path="AoC25.Day4.PrintingDepartment.Part2\AoC25.Day4.PrintingDepartment.Part2.csproj" />
+    <Project Path="AoC25.Day4.PrintingDepartment\AoC25.Day4.PrintingDepartment.csproj" />
+  </Folder>
 </Solution>
