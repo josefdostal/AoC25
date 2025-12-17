@@ -21,4 +21,10 @@
     <Project Path="AoC25.Day4.PrintingDepartment.Part2\AoC25.Day4.PrintingDepartment.Part2.csproj" />
     <Project Path="AoC25.Day4.PrintingDepartment\AoC25.Day4.PrintingDepartment.csproj" />
   </Folder>
+  <Folder Name="/Day5.Cafeteria/">
+    <Project Path="AoC25.Day5.Cafeteria.Part1.Unit/AoC25.Day5.Cafeteria.Part1.Unit.csproj" />
+    <Project Path="AoC25.Day5.Cafeteria.Part1/AoC25.Day5.Cafeteria.Part1.csproj" />
+    <Project Path="AoC25.Day5.Cafeteria.Part2/AoC25.Day5.Cafeteria.Part2.csproj" />
+    <Project Path="AoC25.Day5.Cafeteria/AoC25.Day5.Cafeteria.csproj" />
+  </Folder>
 </Solution>
