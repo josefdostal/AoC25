@@ -27,4 +27,8 @@
     <Project Path="AoC25.Day5.Cafeteria.Part2/AoC25.Day5.Cafeteria.Part2.csproj" />
     <Project Path="AoC25.Day5.Cafeteria/AoC25.Day5.Cafeteria.csproj" />
   </Folder>
+  <Folder Name="/Day6.TrashCompactor/">
+    <Project Path="AoC25.Day6.TrashCompactor.Part1/AoC25.Day6.TrashCompactor.Part1.csproj" />
+    <Project Path="AoC25.Day6.TrashCompactor/AoC25.Day6.TrashCompactor.csproj" />
+  </Folder>
 </Solution>
