@@ -1,5 +1,4 @@
 ﻿using System.Diagnostics;
-using AoC25.Day5.Cafeteria;
 using AoC25.Day5.Cafeteria.Part1;
 
 var inputFile = args[0];
